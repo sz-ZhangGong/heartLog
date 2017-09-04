@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">heartLog</string>
+    <string name="list_trans_text">查询测量历史</string>
+    <string name="num3_text">心率</string>
+    <string name="num2_text">舒张压</string>
+    <string name="num1_text">收缩压</string>
+</resources>
